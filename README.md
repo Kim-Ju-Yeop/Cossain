@@ -24,7 +24,7 @@
 | Develop People | 김주엽, 이영은 | 최이삭       |김성욱 |김수환, 유현주|
 | Develop School | Daegu | Daedeok       | Daedeok | Gwangju|
 | Develop Language | Java| JavaScript| Python| |
-| Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio| Adobe Illustrator, Photoshop, XD|
+| Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio| Adobe Illustrator, Photoshop|
 
 ## Skill
 - <a href="https://github.com/bumptech/glide">Glide</a>
