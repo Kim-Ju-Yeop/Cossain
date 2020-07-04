@@ -23,15 +23,15 @@
 |:--------------------:|:---------------:|:------------------:|:-----:|:----:|
 | Develop People | 김주엽, 이영은 | 최이삭       |김성욱 |김수환, 유현주|
 | Develop School | Daegu | Daedeok       | Daedeok | Gwangju|
-| Develop Language | Java, Retrofit2| JavaScript| Python| |
+| Develop Language | Java| JavaScript| Python| |
 | Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio| Adobe Illustrator, Photoshop, XD|
 
 ## Skill
 - <a href="https://github.com/bumptech/glide">Glide</a>
 - <a href="https://github.com/ybq/Android-SpinKit">SpinKit</a>
 - <a href="https://developer.android.com/jetpack/androidx/releases/lifecycle">ViewModel</a>
-- <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a>
 - <a href="https://github.com/philhuang100/android-signaturepad">SignaturePad</a>
+- <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a>
 
 ## Design Pattern
 - MVVM 디자인 패턴을 활용하여 구현했습니다.
@@ -45,9 +45,8 @@
 <img width="160" src="https://user-images.githubusercontent.com/49600974/69478087-95f0e400-0e31-11ea-9e3c-a66dcd42fe0a.jpg"></img>
 </div>
 
-## 2019 SW 마이스터고 융합 해커톤
-  - 2019 SW 마이스터고 융합 해커톤에서 Cossain 이라는 프로젝트를 성공적으로 마쳤습니다.
-  - 네이버 블로그 <a href ="http://kjy13299.blog.me/221716467659" target ="_blank" title ="2019 SW 마이스터고 융합 해커톤">2019 SW 마이스터고 융합 해커톤 </a>
+## Blog
+  - 네이버 블로그 <a href ="http://kjy13299.blog.me/221716467659" target ="_blank" title ="Cossain 코싸인 설명보기">Cossain 코싸인 설명보기</a>
  
 
  
