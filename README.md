@@ -26,6 +26,16 @@
 | Develop Language | Java, Retrofit2| JavaScript| Python| |
 | Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio| Adobe Illustrator, Photoshop, XD|
 
+## Skill
+- <a href="https://github.com/bumptech/glide">Glide</a>
+- <a href="https://github.com/ybq/Android-SpinKit">SpinKit</a>
+- <a href="https://developer.android.com/jetpack/androidx/releases/lifecycle">ViewModel</a>
+- <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a>
+- <a href="https://github.com/philhuang100/android-signaturepad">SignaturePad</a>
+
+## Design Pattern
+- MVVM 디자인 패턴을 활용하여 구현했습니다.
+
 ## UI/UX
 <div>
 <img width="160" src="https://user-images.githubusercontent.com/49600974/69478088-96897a80-0e31-11ea-8b50-989b302d6c39.jpg"></img>
