@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/49600974/104806425-c86e5500-581a-11eb-839d-fb15b17908e3.png"></img>
+
 # Cossain 코싸인
 🔒 블록체인 기술을 활용하여 전자 계약서를 작성하고 거래 할 수 있도록 도와주는 애플리케이션.
 
